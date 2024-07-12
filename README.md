@@ -1,16 +1,23 @@
-## Hi there 👋
+## Olá! Eu sou Phillip Rotta 👋
 
-<!--
-**PhillipRotta/philliprotta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Estudando HTML, CSS, JacaScript e TypeScript
+- 👯 Estou procurando aprender cada dia mais
+- 🤔 Estou procurando ajuda com JavaScript
+- 📫 Contate-me no email: philliprotta@gmailcom
 
-Here are some ideas to get you started:
+<div>
+  <a href="htts://github.com/philliprotta">
+  <img height="180em" src="https://github-redme-stats.vercel.app/api?username=philliprotta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-redme-stats.vercel.app/api/top-langs/?username=philliprotta&layout=compact&langs_count=16&theme=dark"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
+</div>
+
+<div>
+  
+</div>
